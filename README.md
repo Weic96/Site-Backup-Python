@@ -48,3 +48,14 @@ python setup.py install
 ```
 python setup.py install
 ```
+
+### 让脚本工作起来
+你需要填写配置文件:site-backup.cfg
+
+然后就可以运行脚本试试了
+```
+python site-backup.py
+```
+你可以直接运行脚本，但是我建议将此脚本加入后台运行和开机自动运行;
+
+
